@@ -1,0 +1,1 @@
+Importance of DevOps: The importance of DevOps is automation. DevOps improves collaboration, increases agility, cost savings, improves quality and reduces defects.
