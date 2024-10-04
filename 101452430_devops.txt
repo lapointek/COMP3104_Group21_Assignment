@@ -1,1 +1,4 @@
-COMP3104-DevOps: The DevOps course teaches about effective DevOps techniques and being able to provide solutions using industry standard tools and techniques. The course also teaches about using version conrol system for low-risk software releases and how to used DevOps tools. Other course skills that will be taught include Github actions CI/CD, automated testing, code quality checks and infrastructure as Code(IaC).
+COMP3104-DevOps: 
+The DevOps course teaches about effective DevOps techniques and being able to provide solutions using industry standard tools and techniques. 
+The course also teaches about using a version control system for low-risk software releases.  
+Other course skills that are taught in COMP3104 include Github actions CI/CD, automated testing, code quality checks and infrastructure as Code(IaC).
