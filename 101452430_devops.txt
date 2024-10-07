@@ -9,3 +9,6 @@ Code: Github, Gitlab, Bitbucket, Visual Studio Code
 Build: Docker, Maven, Gradle, Ant
 Test: Selenium, JUnit, Postman
 Release: Jenkins, Bamboo
+Deploy: Kubernetes, Ansible
+Operate: Nagios, Prometheus
+Monitor: ELK Stack, Datadog
