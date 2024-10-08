@@ -3,4 +3,13 @@ It is the term used in the software industry to describe the process for creatin
 It is used as a guide to make sure the software is produced at a reasonable cost and with as much quality as possible, in as little time as possible.
 
 There are 7 stages to the software development life cycle.
+-The first stage is Planning and Brainstorming.
+-The second stage is Analyzing Requirements.
+-The third stage is Designing Mockups.
+-The fourth stage is Developing Code.
+-The fifth stage is Testing The Product.
+-The sixth stage is Implementing And Launching The Product.
+-The seventh stage is Setting Up Further Maintenance Post Launch.
+
+
 There are also 6 software development models available on the market, with each one having benefits and negatives to them.
