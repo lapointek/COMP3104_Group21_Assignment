@@ -13,3 +13,9 @@ There are 7 stages to the software development life cycle.
 
 
 There are also 6 software development models available on the market, with each one having benefits and negatives to them.
+-The first model is the Waterfall model.
+-The second model is the Agile model.
+-The third model is Iterative model.
+-The fourth model is the V-Shaped model.
+-The fifth model is the Big Bang model.
+-The sixth model is the Spiral model.
