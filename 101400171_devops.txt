@@ -3,3 +3,5 @@ DevOps combines development (Dev) and operations (Ops) to increase the efficienc
 In week 1, I learned about the basics of DevOps, build pipelines and different types of bash commands
 
 In week 2, I learned about what GitHub is and how to use the git commands
+
+In week 3, I learned about version control systems and what Travis CI is 
