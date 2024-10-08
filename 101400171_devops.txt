@@ -5,3 +5,5 @@ In week 1, I learned about the basics of DevOps, build pipelines and different t
 In week 2, I learned about what GitHub is and how to use the git commands
 
 In week 3, I learned about version control systems and what Travis CI is 
+
+In week 4, I learned about the tools and techiques and what a DevOps Engineer is
