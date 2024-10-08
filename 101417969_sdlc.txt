@@ -3,13 +3,13 @@ It is the term used in the software industry to describe the process for creatin
 It is used as a guide to make sure the software is produced at a reasonable cost and with as much quality as possible, in as little time as possible.
 
 There are 7 stages to the software development life cycle.
--The first stage is Planning and Brainstorming.
--The second stage is Analyzing Requirements.
--The third stage is Designing Mockups.
--The fourth stage is Developing Code.
--The fifth stage is Testing The Product.
--The sixth stage is Implementing And Launching The Product.
--The seventh stage is Setting Up Further Maintenance Post Launch.
+-The first stage is Planning and Brainstorming. This step requires the team to think about the different benefits and drawbacks of the proposed project, and figure out what the group/company wants out of the project.
+-The second stage is Analyzing Requirements. This step requires the team figuring out how to actually complete the project and break down the requirements into easier to read and understand tasks.
+-The third stage is Designing Mockups. This step requires the team to make graphs and schedules for all of the steps in the project, saying what order they will be done in and when they are due.
+-The fourth stage is Developing Code. This step requires the team to use their coding skills to actually accomplish the tasks they are given and complete the project.
+-The fifth stage is Testing The Product. This step requires the team to test the product to make sure it is in a stable state and has the highest chance possible of completing the tasks it is supposed to complete.
+-The sixth stage is Implementing And Launching The Product. This step requires the team to do marketing for the product so that people will know about it and be enticed to buy it.
+-The seventh stage is Setting Up Further Maintenance Post Launch. This step requires the team to consistently do maintenance on their product after it is launched, listening to any complaints from customers and making sure to fix any unnoticed bugs and glitches as quickly as possible.
 
 
 There are also 6 software development models available on the market, with each one having benefits and negatives to them.
