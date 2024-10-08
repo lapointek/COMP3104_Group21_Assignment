@@ -1,4 +1,4 @@
-George Brown College is a public college focused on applied arts and technology with three different campuses located in downtown Toronto.
-It was opened in 1967 by the government of Ontario, meaning it has been apart of Toronto for several decades.
-It offers more than 170 full-time programs in art and design, business, community services, early childhood education, and much more, giving students a variety of subjects and courses to take.
-The college offers several different diploma, advanced diploma, and degree programs for its various courses, allowing students to choose the level of education they desire in their chosen field.
+George Brown College has the course COMP3104 - DevOps as part of its T177 Program.
+In this class, students are taught about the procedures and protocols that DevOps engineers use in the workplace to increase the productivity of the company.
+They are tasked with analyzing and evaluating multiple developer operation implementations and implement hands-on work using industry standard toolkits.
+Students will use many websites and different pieces of software throughout this course, including Github, Gitbash, Visual Studio Code, and more.
