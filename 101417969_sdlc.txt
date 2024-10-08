@@ -1,0 +1,6 @@
+SDLC stands for Software Development Life Cycle.
+It is the term used in the software industry to describe the process for creating software products.
+It is used as a guide to make sure the software is produced at a reasonable cost and with as much quality as possible, in as little time as possible.
+
+There are 7 stages to the software development life cycle.
+There are also 6 software development models available on the market, with each one having benefits and negatives to them.
