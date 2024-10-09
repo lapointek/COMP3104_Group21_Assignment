@@ -1,1 +1,2 @@
-The DevOps course also focuses on cloud technologies, including AWS and Azure.
+Students will learn to automate infrastructure deployment with Infrastructure as Code (IaC) in this course.
+
