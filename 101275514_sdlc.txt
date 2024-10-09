@@ -1,1 +1,2 @@
-DevOps in SDLC enables better collaboration between developers and operations teams, resulting in faster feedback loops.
+DevOps in SDLC helps reduce downtime and improve system reliability by integrating automated testing and monitoring.
+
