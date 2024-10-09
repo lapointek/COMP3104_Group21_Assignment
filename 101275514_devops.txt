@@ -1,2 +1,1 @@
-Students will learn to automate infrastructure deployment with Infrastructure as Code (IaC) in this course.
-
+The DevOps course encourages students to implement continuous integration and continuous delivery (CI/CD) practices.
