@@ -1,0 +1,21 @@
+SDLC stands for Software Development Life Cycle.
+It is the term used in the software industry to describe the process for creating software products.
+It is used as a guide to make sure the software is produced at a reasonable cost and with as much quality as possible, in as little time as possible.
+
+There are 7 stages to the software development life cycle.
+-The first stage is Planning and Brainstorming. This step requires the team to think about the different benefits and drawbacks of the proposed project, and figure out what the group/company wants out of the project.
+-The second stage is Analyzing Requirements. This step requires the team figuring out how to actually complete the project and break down the requirements into easier to read and understand tasks.
+-The third stage is Designing Mockups. This step requires the team to make graphs and schedules for all of the steps in the project, saying what order they will be done in and when they are due.
+-The fourth stage is Developing Code. This step requires the team to use their coding skills to actually accomplish the tasks they are given and complete the project.
+-The fifth stage is Testing The Product. This step requires the team to test the product to make sure it is in a stable state and has the highest chance possible of completing the tasks it is supposed to complete.
+-The sixth stage is Implementing And Launching The Product. This step requires the team to do marketing for the product so that people will know about it and be enticed to buy it.
+-The seventh stage is Setting Up Further Maintenance Post Launch. This step requires the team to consistently do maintenance on their product after it is launched, listening to any complaints from customers and making sure to fix any unnoticed bugs and glitches as quickly as possible.
+
+
+There are also 6 software development models available on the market, with each one having benefits and negatives to them.
+-The first model is the Waterfall model. This model has been used since the 1970s, and is a sequential design process that moves in a straight line from one section to the next. It is best used when the requirements for a project are well-defined.
+-The second model is the Agile model. This model focuses on high-quality software delivered quickly, and at a low cost. It focuses on working software over fully fleshed out pre-planning and documentation. It is best used if there is a good chance that new requirements may come up when development starts.
+-The third model is Iterative model. This model organizes the process of developing the code into short cycles instead of purely linear progression. This makes it easier for devs to make incremental changes at a frequent rate. It is best used for large projects with well-defined managing teams.
+-The fourth model is the V-Shaped model. This model allows for development and testing to happen simultaneously. It's linear, but in this case, you only move onto the next stage once the entire team finishes the previous one. It is best used for large projects that take place over a long time period.
+-The fifth model is the Big Bang model. This model has little structure, with the devs only having an understanding of the requirements when they begin. The main focus in this model is getting work code out quickly and in a flexible manner. It is best user for small projects with a small team of devs.
+-The sixth model is the Spiral model. This model has devs work in shorter cycles, with those cycles following linear progression. The focus is on gradually building up the quality of the software. This makes it easier to manage any risks by limiting how much code there is to affect at any given point. It is best used for very complex and very expensive large projects.

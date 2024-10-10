@@ -1,0 +1,4 @@
+George Brown College has the course COMP3104 - DevOps as part of its T177 Program.
+In this class, students are taught about the procedures and protocols that DevOps engineers use in the workplace to increase the productivity of the company.
+They are tasked with analyzing and evaluating multiple developer operation implementations and implement hands-on work using industry standard toolkits.
+Students will use many websites and different pieces of software throughout this course, including Github, Gitbash, Visual Studio Code, and more.
