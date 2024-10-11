@@ -1,0 +1,2 @@
+2222 - DevOps in SDLC helps reduce downtime and improve system reliability by integrating automated testing and monitoring.
+

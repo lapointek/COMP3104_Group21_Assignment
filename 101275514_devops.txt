@@ -1,0 +1,1 @@
+1111 - The DevOps course encourages students to implement continuous integration and continuous delivery (CI/CD) practices.
